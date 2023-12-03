@@ -1,1 +1,0 @@
-/Users/absandell/Documents/Code\ Projects/GitHub/advent-of-code/2023/Day-2/rust-solution/target/debug/rust-solution: /Users/absandell/Documents/Code\ Projects/GitHub/advent-of-code/2023/Day-2/rust-solution/src/main.rs
